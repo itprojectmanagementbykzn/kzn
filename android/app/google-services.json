@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103923957850",
+    "project_id": "kzn-learning",
+    "storage_bucket": "kzn-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103923957850:android:1ac189c2dec9ba48ed5863",
+        "android_client_info": {
+          "package_name": "com.kzn.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103923957850-adb60mfg4dkigf2knieoebg8r37kac3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.learning",
+            "certificate_hash": "af4d0b5361a2a297b8e64315787e0db3da16aaf9"
+          }
+        },
+        {
+          "client_id": "103923957850-ll6pj2nneqhaavjqd7ilra4au27k1oic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZbU-4f1KqkxpsslxNzT4aEln5OUNuOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103923957850-ll6pj2nneqhaavjqd7ilra4au27k1oic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

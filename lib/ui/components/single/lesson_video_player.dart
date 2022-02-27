@@ -34,7 +34,7 @@ class _LessonVideoPlayerState extends State<LessonVideoPlayer> {
   Widget build(BuildContext context) {
     return Container(
       margin: EdgeInsets.only(bottom: 20),
-      height: 200,
+      height: 235,
       child: _videoPlayerFuture(),
     );
   }

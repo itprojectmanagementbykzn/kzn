@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>103923957850-jgfkthcgd23neg8p7nn27hmplsqd90mb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.103923957850-jgfkthcgd23neg8p7nn27hmplsqd90mb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>103923957850-6n9aqsf7c91e620o8dtgp69qi5309g7g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBY3MYhU_603eIPuRIJ5wAgS1u9xHC971Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>103923957850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kzn.learning</string>
+	<key>PROJECT_ID</key>
+	<string>kzn-learning</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kzn-learning.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:103923957850:ios:c0d96536381a8136ed5863</string>
+	<key>DATABASE_URL</key>
+	<string>https://kzn-learning-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

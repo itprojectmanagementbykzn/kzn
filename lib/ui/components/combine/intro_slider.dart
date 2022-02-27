@@ -19,13 +19,14 @@ class IntroSlider extends StatelessWidget {
           options: CarouselOptions(
             autoPlay: true,
             initialPage: 2,
-            height: 28.125 * 6.5,
+            height: 400,
             enableInfiniteScroll: true,
           ),
           items: List.generate(photos.length, (index) => Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              width: 450,
+              width: double.infinity,
+              height: double.infinity,
               decoration: BoxDecoration(
                   border: Border.all(width: 1.0),
                   borderRadius: BorderRadius.circular(8.0)

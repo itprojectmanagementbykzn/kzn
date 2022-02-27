@@ -47,7 +47,7 @@ class OnBoardingPage extends StatelessWidget {
       next: Icon(Icons.forward_outlined, size: 30, color: Colors.indigo[900]),
       dotsDecorator: getDotDecoration(),
       onChange: (index) => print('Page $index selected'),
-      globalBackgroundColor: Theme.of(context).primaryColor,
+      globalBackgroundColor: Colors.white,
       skipFlex: 0,
       nextFlex: 0,
       // isProgressTap: false,
